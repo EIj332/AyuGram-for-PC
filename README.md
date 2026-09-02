@@ -1,3 +1,4 @@
+<img width="280" height="280" alt="131606289" src="https://github.com/user-attachments/assets/14211dd0-b8f1-405f-ad6b-bc4075fc271b" />
 # 📸 Ауграм для ПК
 
 Десктопное приложение Ауграм.
